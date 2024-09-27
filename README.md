@@ -1,4 +1,4 @@
-# Delphi_MMDB_Wrapper
+# Delphi MMDB Wrapper
 
 Simple Wrapper for the Delphi MMDB Reader library by optinsoft.
 
